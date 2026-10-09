@@ -1,5 +1,26 @@
 # What's new in LGA FrameRev
 
+## v1.003
+
+- **Fixed:** The tool options bar no longer flickers while you resize the window.
+
+## v1.002
+
+- **Improved:** The window can't be made shorter than 810 pixels anymore, unless your screen is smaller than that.
+
+## v1.001
+
+- **Improved:** Projects are now saved as .frrev files, and they open with a double-click and show the FrameRev icon as soon as you open the updated app. Your existing .frproj projects still open as before.
+
+## v1.000
+
+- **Improved:** Double-clicking a FrameRev project while the app is running opens it in that window, or in a separate window if you already have something in the editor, so nothing gets replaced.
+- **Fixed:** Opening FrameRev again while it is already running in the tray now brings up the open window instead of starting another copy of the app.
+
+## v0.275
+
+- **New:** The update window now shows what's new in the version it offers, and Help has a What's new link with the full history.
+
 ## v0.274 (2026-10-04)
 
 - **Fixed:** Arrow opacity now works on tapered arrows, and on the other arrow styles the line, head and tail no longer look darker where they meet: the whole arrow reads as one shape.
