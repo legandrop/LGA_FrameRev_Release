@@ -1,5 +1,13 @@
 # What's new in LGA FrameRev
 
+## v1.014
+
+- **New:** En Draw on Screen, Ctrl+S guarda el monitor donde está el mouse con tu dibujo en la misma carpeta que tus capturas, Ctrl+Shift+S pregunta dónde guardarlo y Ctrl+C lo copia.
+- **New:** En Draw on Screen, Ctrl+V o el botón Paste agregan una imagen de referencia desde el portapapeles o desde un archivo, y queda en pantalla mientras trabajás con el escritorio liberado (Ctrl+Esc).
+- **Improved:** Ya no hace falta salir de Draw on Screen para capturar mientras dibujás: la captura incluye tu dibujo sin las barras de herramientas, y Edit la abre en el editor.
+- **Improved:** Delete ahora borra el elemento seleccionado en Draw on Screen.
+- **Fixed:** Los atajos globales como Ctrl+Alt+3 ya se pueden asignar en teclados donde esa combinación escribe un símbolo. (Windows only)
+
 ## v1.003
 
 - **Fixed:** The tool options bar no longer flickers while you resize the window.
