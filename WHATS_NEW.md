@@ -1,5 +1,15 @@
 # What's new in LGA FrameRev
 
+## v1.17 (2026-11-08)
+
+- **New:** FrameRev arranca solo al iniciar sesión, así los atajos de captura y de Draw on Screen funcionan siempre, también después de reiniciar la Mac. Se activa o desactiva con Start with the system, en Settings. (macOS only)
+- **Improved:** Con Select, al pasar el mouse sobre un objeto aparecen sus handles, así ves qué vas a seleccionar y podés estirarlo, rotarlo o moverlo sin hacer click antes. Si el objeto seleccionado se superpone con otro, manda el seleccionado.
+- **Improved:** Con la herramienta Text, un click sobre un texto ya escrito lo edita donde clickeaste, en vez de empezar otro texto encima; al pasar el mouse sobre un texto se ven sus handles.
+- **Improved:** Click izquierdo sobre el icono de FrameRev en la barra de tareas o en la barra de menú inicia una captura; el menú con Capture, Draw on Screen, Settings y Quit se abre con click derecho.
+- **Improved:** Si la conexión falla al buscar o bajar una actualización, la app espera y vuelve a probar sola hasta tres veces.
+- **Fixed:** Al escribir un texto ahora se ve el cursor, una barra fina y parpadeante del color del texto, a cualquier zoom.
+- **Fixed:** El menú de captura, Draw on Screen y sus barras ya no quedan detrás de avisos y notificaciones de otras apps: ahora están por encima de todo.
+
 ## v1.014
 
 - **New:** En Draw on Screen, Ctrl+S guarda el monitor donde está el mouse con tu dibujo en la misma carpeta que tus capturas, Ctrl+Shift+S pregunta dónde guardarlo y Ctrl+C lo copia.
