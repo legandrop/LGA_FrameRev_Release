@@ -1,5 +1,14 @@
 # What's new in LGA FrameRev
 
+## v1.18 (2026-11-20)
+
+- **New:** Al abrir FrameRev sin una captura aparece todo lo que abriste antes, guardado o no, agrupado por día y con su miniatura: un clic lo reabre con las anotaciones intactas, aunque hayas cerrado el editor sin guardar.
+- **Improved:** El aviso de una versión nueva espera un poco más las novedades cuando la conexión tarda, así que ya no aparece sin la lista de cambios.
+- **Improved:** El DMG viene firmado y verificado por Apple: la app se abre sin pasar por la Terminal. La primera vez después de actualizar, macOS vuelve a pedir el permiso de Grabación de pantalla. (macOS only)
+- **Fixed:** En Save Image As, el botón Browse ya no guarda la imagen adentro de una subcarpeta que quedó marcada sin querer: ahora abre la ventana de guardar de Windows, y debajo de Location se ve la ruta completa donde va a quedar el archivo.
+- **Fixed:** Al tocar Open System Settings en el aviso de Grabación de pantalla, FrameRev ya aparece en la lista de Ajustes, lista para prender. (macOS only)
+- **Fixed:** El primer tooltip después de abrir la app ya no aparece encima del puntero tapando el botón: sale debajo, como los siguientes. (macOS only)
+
 ## v1.17 (2026-11-08)
 
 - **New:** FrameRev arranca solo al iniciar sesión, así los atajos de captura y de Draw on Screen funcionan siempre, también después de reiniciar la Mac. Se activa o desactiva con Start with the system, en Settings. (macOS only)
